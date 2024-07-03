@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1927
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BNIX-DI-Agent", "BNIX-DI-Agent\BNIX-DI-Agent.vbproj", "{F8419A05-8FD4-4BF8-AFD8-06464A3AE663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8419A05-8FD4-4BF8-AFD8-06464A3AE663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8419A05-8FD4-4BF8-AFD8-06464A3AE663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8419A05-8FD4-4BF8-AFD8-06464A3AE663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8419A05-8FD4-4BF8-AFD8-06464A3AE663}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D73CB76-33C3-4376-9A51-68F8FA7C561A}
+	EndGlobalSection
+EndGlobal
