@@ -5,7 +5,7 @@ BQS (BitNix Quick Support) is a seamless support solution designed to streamline
 ## Features
 - **User-Friendly Interface**: Simplified interaction via system tray icon.
 - **Efficient Ticket Submission**: Easily describe and submit issues in just a few clicks.
-- **Seamless Integration**: Paired with our RMM solution, BQS installs valid tokens and keys to ensure secure communication with the BQS API.
+- **Seamless Integration**: Paired with our RMM solution, Our RMM installs valid tokens and keys to ensure secure communication with the BQS API.
 
 ## Technical Details
 - **Development**: Created with VB.net and compiled using .NET Framework 4.6.
