@@ -9,7 +9,7 @@ Public Class Contact
 
     End Sub
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Dim baseUrl As String = "https://exampleapi.com/"
+        Dim baseUrl As String = "https://examplepublic.com/"
         Dim token As String = "null"
         Try
             token = System.IO.File.ReadAllText("C:\ProgramData\TacticalRMM\token.txt").Replace(Environment.NewLine, "").Replace(vbLf, "").Replace(vbCr, "")
